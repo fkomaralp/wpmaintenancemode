@@ -1,0 +1,24 @@
+{
+	"name": "fkomaralp/wpmaintenancemode",
+	"type": "command",
+	"description": "WP-CLI commands for wpmaintenancemode",
+	"keywords": ["wp-cli", "wp-maintenance-mode", "wordpress", "maintenance"],
+	"homepage": "https://github.com/fkomaralp/wpmaintenancemode",
+	"require": {
+		"php": ">=5.3"
+	},
+	"license": "GPLv2+",
+	"authors": [
+		{
+			"name": "Damien PIQUET",
+			"email": "piqudam@gmail.com",
+			"homepage": "https://github.com/fkomaralp/"
+		}
+	],
+	"support": {
+		"source": "https://github.com/fkomaralp/wpmaintenancemode/"
+	},
+	"autoload": {
+		"files": [ "test.php" ]
+	}
+}
